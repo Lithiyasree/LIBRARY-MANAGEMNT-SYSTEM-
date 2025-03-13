@@ -7,7 +7,7 @@ This system is designed for both administrators (librarians) and users (students
 The system allows librarians to **add, update, delete, and search books**, track **borrowed and returned books**, manage **due dates and fines**, and maintain **user records**. 
 The **JDBC API** enables seamless interaction between the **Java application** and the **MySQL database**, ensuring efficient data retrieval, storage, and updates. 
 
-### **Tech Stack:**
+## 🛠️ Tech Stack
 - **Frontend (GUI):** Java **Swing** for an interactive and user-friendly interface.  
 - **Backend (Database):** **MySQL** for storing book records, user details, and transaction history.  
 - **Database Connectivity:** **JDBC (Java Database Connectivity)** for handling database operations.  
@@ -15,9 +15,9 @@ The **JDBC API** enables seamless interaction between the **Java application** a
 - **Version Control:** **Git & GitHub** for project tracking and collaboration.  
 - **Security:** **Password hashing, access control**, and **exception handling** to ensure data integrity.  
 
-## 🔑 Features
+## 🔑 **Features
 
-### 🔹 Admin (Librarian)
+### 🔹 **Admin (Librarian)**
 - **Login Authentication** – Secure login for librarians.
 - **Manage Books** – Add, update, delete, and search books in the catalog.
 - **Manage Users** – Add, update, and delete student/member accounts.
@@ -27,14 +27,14 @@ The **JDBC API** enables seamless interaction between the **Java application** a
 - **View Transaction History** – Track issued and returned books.
 - **Maintain Staff Details** – Manage staff information and roles.
 
-### 🔹 Users (Students/Members)
+### 🔹 **Users (Students/Members)**
 - **User Registration/Login** – Secure authentication to access the system.
 - **Search Books** – Look up books by title, author, or category.
 - **View Book Availability** – Check if a book is available or issued.
 - **View Issued Books** – Track borrowed books.
 - **Check Fines** – View applicable overdue fines.
 - 
-### 🔹 Email Notifications
+### 🔹 **Email Notifications**
 - **Forgot Password** – Email sent for password recovery.
 - **Due Date Reminder** – Email notification if a book is not returned on time.
 - **Book Borrowed** – Email confirmation when a book is borrowed.
