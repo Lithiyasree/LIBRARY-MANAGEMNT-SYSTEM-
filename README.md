@@ -34,7 +34,7 @@ The **JDBC API** enables seamless interaction between the **Java application** a
 - **View Issued Books** – Track borrowed books.
 - **Check Fines** – View applicable overdue fines.
 - 
-### **Email Notifications**
+### 🔹 Email Notifications
 - **Forgot Password** – Email sent for password recovery.
 - **Due Date Reminder** – Email notification if a book is not returned on time.
 - **Book Borrowed** – Email confirmation when a book is borrowed.
