@@ -1,5 +1,5 @@
 # LIBRARY-MANAGEMNT-SYSTEM-
-JAVA, JDBC, MYSQL
+JAVA, SWING, JDBC, MYSQL
 
 
 The **Library Management System (LMS) GUI** is a **Java-based GUI DESKTOP APPLICATION** that efficiently manages library operations using **JDBC and MySQL**, providing a user-friendly **Graphical User Interface (GUI)**. 
@@ -7,7 +7,7 @@ This system is designed for both administrators (librarians) and users (students
 The system allows librarians to **add, update, delete, and search books**, track **borrowed and returned books**, manage **due dates and fines**, and maintain **user records**. 
 The **JDBC API** enables seamless interaction between the **Java application** and the **MySQL database**, ensuring efficient data retrieval, storage, and updates. 
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 - **Frontend (GUI):** Java **Swing** for an interactive and user-friendly interface.  
 - **Backend (Database):** **MySQL** for storing book records, user details, and transaction history.  
 - **Database Connectivity:** **JDBC (Java Database Connectivity)** for handling database operations.  
@@ -15,7 +15,7 @@ The **JDBC API** enables seamless interaction between the **Java application** a
 - **Version Control:** **Git & GitHub** for project tracking and collaboration.  
 - **Security:** **Password hashing, access control**, and **exception handling** to ensure data integrity.  
 
-## 🔑 **Features
+## 🔑 **Features**
 
 ### 🔹 **Admin (Librarian)**
 - **Login Authentication** – Secure login for librarians.
